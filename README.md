@@ -21,7 +21,7 @@ Inside [TailAdmin](https://tailadmin.com/), there are many more components and p
 To use this kit, you can install it using:
 
 ```
-
+https://github.com/hameed-fu/tailadmin-blade-template.git
 ```
 
 From there, you can modify the kit to your needs.
